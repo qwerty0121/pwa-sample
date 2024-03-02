@@ -1,6 +1,6 @@
 {
-  "short_name": "Vite&PWA",
-  "name": "Vite & PWA Sample App",
+  "short_name": "PWA",
+  "name": "PWA Sample App",
   "start_url": "/",
   "display": "standalone"
 }
